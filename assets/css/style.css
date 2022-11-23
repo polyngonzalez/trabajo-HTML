@@ -1,0 +1,30 @@
+p {
+    color: blueviolet;
+}
+
+h1 {
+    background-color: darkmagenta;
+    color: aliceblue;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: brown; 
+    border-radius: 0ch;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: coral;
+}
+
+ul {
+    background-color: aquamarine;
+}
+
+.border-box {
+    border: solid 4px black;
+    padding: 20px;
+    margin: 50px;
+}
